@@ -19,19 +19,24 @@ Please feel free to send me [pull requests](https://github.com/zhjohnchan/awesom
 | Title                                                                                                                                                                        | Venue    |   Year |
 |:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------|-------:|
 | [Extracting Causal Knowledge from a Medical Database Using Graphical Patterns](https://aclanthology.org/P00-1043.pdf)                                                        | ACL      |   2000 |
+| [KCAT: A Korean Corpus Annotating Tool Minimizing Human Intervention](https://aclanthology.org/C00-2165.pdf)                                                                 | COLING   |   2000 |
 | [Learning Semantic Links from a Corpus of Parallel Temporal and Causal Relations](https://aclanthology.org/P08-2045.pdf)                                                     | ACL      |   2008 |
 | [Minimally Supervised Event Causality Identification](https://aclanthology.org/D11-1027.pdf)                                                                                 | EMNLP    |   2011 |
 | [Excitatory or Inhibitory: A New Semantic Orientation Extracts Contradiction and Causality from the Web](https://aclanthology.org/D12-1057.pdf)                              | EMNLP    |   2012 |
+| [Acquiring and Generalizing Causal Inference Rules from Deverbal Noun Constructions](https://aclanthology.org/C12-2118.pdf)                                                  | COLING   |   2012 |
 | [Excitatory or Inhibitory: A New Semantic Orientation Extracts Contradiction and Causality from the Web](https://aclanthology.org/D12-1057.pdf)                              | CoNLL    |   2012 |
 | [Why-Question Answering using Intra- and Inter-Sentential Causal Relations](https://aclanthology.org/P13-1170.pdf)                                                           | ACL      |   2013 |
 | [What causes a causal relation? Detecting Causal Triggers in Biomedical Scientific Discourse](https://aclanthology.org/P13-3006.pdf)                                         | ACL      |   2013 |
 | [Toward Future Scenario Generation: Extracting Event Causality Exploiting Semantic Relation, Context, and Association Features](https://aclanthology.org/P14-1093.pdf)       | ACL      |   2014 |
 | [Predicting Instructor’s Intervention in MOOC forums](https://aclanthology.org/P14-1141.pdf)                                                                                 | ACL      |   2014 |
 | [Extracting Temporal and Causal Relations between Events](https://aclanthology.org/P14-3002.pdf)                                                                             | ACL      |   2014 |
+| [An Analysis of Causality between Events and its Relation to Temporal Information](https://aclanthology.org/C14-1198.pdf)                                                    | COLING   |   2014 |
 | [Identifying Causal Relations Using Parallel Wikipedia Articles](https://aclanthology.org/P16-1135.pdf)                                                                      | ACL      |   2016 |
 | [Physical Causality of Action Verbs in Grounded Language Understanding](https://aclanthology.org/P16-1171.pdf)                                                               | ACL      |   2016 |
 | [Case and Cause in Icelandic: Reconstructing Causal Networks of Cascaded Language Changes](https://aclanthology.org/P16-1229.pdf)                                            | ACL      |   2016 |
 | [Creating Causal Embeddings for Question Answering with Minimal Supervision](https://aclanthology.org/D16-1014.pdf)                                                          | EMNLP    |   2016 |
+| [CATENA: CAusal and TEmporal relation extraction from NAtural language texts](https://aclanthology.org/C16-1007.pdf)                                                         | COLING   |   2016 |
+| [Chinese Tense Labelling and Causal Analysis](https://aclanthology.org/C16-1210.pdf)                                                                                         | COLING   |   2016 |
 | [Recognizing Counterfactual Thinking in Social Media Texts](https://aclanthology.org/P17-2103.pdf)                                                                           | ACL      |   2017 |
 | [A causal framework for explaining the predictions of black-box sequence-to-sequence models](https://aclanthology.org/D17-1042.pdf)                                          | EMNLP    |   2017 |
 | [Counterfactual Learning from Bandit Feedback under Deterministic Logging : A Case Study in Statistical Machine Translation](https://aclanthology.org/D17-1272.pdf)          | EMNLP    |   2017 |
@@ -44,6 +49,8 @@ Please feel free to send me [pull requests](https://github.com/zhjohnchan/awesom
 | [Causal Explanation Analysis on Social Media](https://aclanthology.org/D18-1372.pdf)                                                                                         | EMNLP    |   2018 |
 | [Challenges of Using Text Classifiers for Causal Inference](https://aclanthology.org/D18-1488.pdf)                                                                           | EMNLP    |   2018 |
 | [An Encoder-decoder Approach to Predicting Causal Relations in Stories](https://aclanthology.org/W18-1506.pdf)                                                               | NAACL    |   2018 |
+| [Crowdsourcing StoryLines: Harnessing the Crowd for Causal Relation Annotation](https://aclanthology.org/W18-4306.pdf)                                                       | COLING   |   2018 |
+| [Cyberbullying Intervention Based on Convolutional Neural Networks](https://aclanthology.org/W18-4405.pdf)                                                                   | COLING   |   2018 |
 | [Vectorial Semantic Spaces Do Not Encode Human Judgments of Intervention Similarity](https://aclanthology.org/K18-1038.pdf)                                                  | CoNLL    |   2018 |
 | [Counterfactual Data Augmentation for Mitigating Gender Stereotypes in Languages with Rich Morphology](https://aclanthology.org/P19-1161.pdf)                                | ACL      |   2019 |
 | [Conversational Response Re-ranking Based on Event Causality and Role Factored Tensor Event Embedding](https://aclanthology.org/W19-4106.pdf)                                | ACL      |   2019 |
@@ -76,6 +83,10 @@ Please feel free to send me [pull requests](https://github.com/zhjohnchan/awesom
 | [Neutralizing Gender Bias in Word Embeddings with Latent Disentanglement and Counterfactual Generation](https://aclanthology.org/2020.findings-emnlp.280.pdf)                | EMNLP    |   2020 |
 | [Counterfactually-Augmented SNLI Training Data Does Not Yield Better Generalization Than Unaugmented Data](https://aclanthology.org/2020.insights-1.13.pdf)                  | EMNLP    |   2020 |
 | [Twitter Data Augmentation for Monitoring Public Opinion on COVID-19 Intervention Measures](https://aclanthology.org/2020.nlpcovid19-2.19.pdf)                               | EMNLP    |   2020 |
+| [A Review of Dataset and Labeling Methods for Causality Extraction](https://aclanthology.org/2020.coling-main.133.pdf)                                                       | COLING   |   2020 |
+| [KnowDis: Knowledge Enhanced Data Augmentation for Event Causality Detection via Distant Supervision](https://aclanthology.org/2020.coling-main.135.pdf)                     | COLING   |   2020 |
+| [Generating Plausible Counterfactual Explanations for Deep Transformers in Financial Text Classification](https://aclanthology.org/2020.coling-main.541.pdf)                 | COLING   |   2020 |
+| [A Sentiment-annotated Dataset of English Causal Connectives](https://aclanthology.org/2020.law-1.3.pdf)                                                                     | COLING   |   2020 |
 | [Reducing Sentiment Bias in Language Models via Counterfactual Evaluation](https://aclanthology.org/2020.findings-emnlp.7.pdf)                                               | Findings |   2020 |
 | [Effective Crowd-Annotation of Participants, Interventions, and Outcomes in the Text of Clinical Trial Reports](https://aclanthology.org/2020.findings-emnlp.274.pdf)        | Findings |   2020 |
 | [Neutralizing Gender Bias in Word Embeddings with Latent Disentanglement and Counterfactual Generation](https://aclanthology.org/2020.findings-emnlp.280.pdf)                | Findings |   2020 |
@@ -110,6 +121,7 @@ Please feel free to send me [pull requests](https://github.com/zhjohnchan/awesom
 | [Empowering Language Understanding with Counterfactual Reasoning](https://aclanthology.org/2021.findings-acl.196.pdf)                                                        | Findings |   2021 |
 | [Ethical-Advice Taker: Do Language Models Understand Natural Language Interventions?](https://aclanthology.org/2021.findings-acl.364.pdf)                                    | Findings |   2021 |
 | [John praised Mary because _he_? Implicit Causality Bias and Its Interaction with Explicit Cues in LMs](https://aclanthology.org/2021.findings-acl.429.pdf)                  | Findings |   2021 |
+
 
 
 

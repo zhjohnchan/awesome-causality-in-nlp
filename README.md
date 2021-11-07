@@ -13,6 +13,9 @@ Please feel free to send me [pull requests](https://github.com/zhjohnchan/awesom
 - [Papers](#papers)
   - [Survey](#survey)
   - [Research Paper](#research-paper)
+- [Researchers](#researchers)
+- [Workshops](#workshops)
+- [Related Repos](#related-repos)
 
 ## Papers
 ### Research Paper
@@ -122,6 +125,33 @@ Please feel free to send me [pull requests](https://github.com/zhjohnchan/awesom
 |   2021 | Findings | [Ethical-Advice Taker: Do Language Models Understand Natural Language Interventions?](https://aclanthology.org/2021.findings-acl.364.pdf)                                    |
 |   2021 | Findings | [John praised Mary because _he_? Implicit Causality Bias and Its Interaction with Explicit Cues in LMs](https://aclanthology.org/2021.findings-acl.429.pdf)                  |
 
+
+## Researchers
+* [Susan Athey](https://athey.people.stanford.edu/)
+* [David M. Blei](http://www.cs.columbia.edu/~blei/)
+* [Cristian Danescu-Niculescu-Mizil](http://www.cs.cornell.edu/~cristian/)
+* [Bernhard Schölkopf](https://www.is.mpg.de/~bs)
+* [Aron Culotta](http://cs.tulane.edu/~aculotta/)
+* [Amir Feder](https://amirfeder.github.io/)
+* [Jacob Eisenstein](https://jacobeisenstein.github.io/)
+* [Dhanya Sridhar](https://dsridhar91.github.io/)
+* [Brandon Stewart](https://scholar.princeton.edu/bstewart/home)
+* [Justine Zhang](https://tisjune.github.io/)
+
+## Workshops
+* [First Workshop on Causal Inference & NLP](https://causaltext.github.io/2021/)
+
+## Related Repos
+* [causaltext/causal-text-papers](https://github.com/causaltext/causal-text-papers)
+* [fulifeng/Causal_Reading_Group](https://github.com/fulifeng/Causal_Reading_Group)
+* [zhijing-jin/Causality4NLP_Papers](https://github.com/zhijing-jin/Causality4NLP_Papers)
+* [wangzheng17/awesome-causal-vision](https://github.com/wangzheng17/awesome-causal-vision)
+* [Awesome-Causality-in-CV](https://github.com/Wangt-CN/Awesome-Causality-in-CV)
+* [napsternxg/awesome-causality](https://github.com/napsternxg/awesome-causality)
+* [awesome-causality-algorithms](https://github.com/rguo12/awesome-causality-algorithms)
+* [jvpoulos/causal-ml](https://github.com/jvpoulos/causal-ml)
+* [RL-Causality](https://github.com/debmandal/RL-Causality)
+* [awesome-causal-inference](https://github.com/imirzadeh/awesome-causal-inference)
 
 ## Licenses
 
